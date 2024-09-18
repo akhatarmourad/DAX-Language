@@ -12,8 +12,10 @@ I had the opportunity to explore and practice various aspects of the DAX languag
 
 - **Conditions:** Filtering and creating new measures based on specific criteria.
 - **Switches:** Handling multiple conditions and outputs using the `SWITCH` function.
-- **Formulas for Aggregation:** Aggregating data with functions like `SUM`, `AVERAGE`, `COUNTROWS`.
-- **Navigation Functions:** Accessing data from related tables with functions like `RELATED`, `LOOKUPVALUE`.
+- **Filtering:** Using `FILTER` and `FILTERCOLUMNS` functions to filter data based on specific criteria.
+- **Measures:** Creating new measures based on contextual calculations using `CALCULATE` and `CALCULATETABLE` functions.
+- **Formulas for Aggregation:** Aggregating data with functions like `SUM`, `AVERAGE`, `COUNTROWS`, `COUNT`, `COUNTA`, `SUMX`...
+- **Navigation Functions:** Accessing data from related tables with functions like `RELATED`, `LOOKUPVALUE`, `RELATEDTABLE`...
 - **Understanding Context:** Managing row and filter contexts in dynamic calculations.
 - **Types of Tables:** Creating calculated and summarized tables using DAX functions.
 - **Data Modeling:** Building efficient data models with relationships, hierarchies, and joins.
@@ -21,10 +23,6 @@ I had the opportunity to explore and practice various aspects of the DAX languag
 ## Files & Resources for the DAX Language
 
 There are 5 files available in the student files.
-
-- Readme.txt file
-
-This file explains the files in the course download.
 
 - DAX Workshop - Data Model.pbix
 
