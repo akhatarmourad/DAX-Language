@@ -10,7 +10,13 @@ This repository is dedicated to learning and mastering **DAX (Data Analysis Expr
 
 I had the opportunity to explore and practice various aspects of the DAX language through the following key topics:
 
-
+- **Conditions:** Filtering and creating new measures based on specific criteria.
+- **Switches:** Handling multiple conditions and outputs using the `SWITCH` function.
+- **Formulas for Aggregation:** Aggregating data with functions like `SUM`, `AVERAGE`, `COUNTROWS`.
+- **Navigation Functions:** Accessing data from related tables with functions like `RELATED`, `LOOKUPVALUE`.
+- **Understanding Context:** Managing row and filter contexts in dynamic calculations.
+- **Types of Tables:** Creating calculated and summarized tables using DAX functions.
+- **Data Modeling:** Building efficient data models with relationships, hierarchies, and joins.
 
 ## Files & Resources for the DAX Language
 
