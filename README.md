@@ -20,6 +20,18 @@ I had the opportunity to explore and practice various aspects of the DAX languag
 - **Types of Tables:** Creating calculated and summarized tables using DAX functions.
 - **Data Modeling:** Building efficient data models with relationships, hierarchies, and joins.
 
+## Demo Screenshots
+
+![Data Model](./Data-Model.png)
+
+![Switches](./Switches.png)
+
+![Conditions](./IF-Conditions.png)
+
+![X Functions](./X-Functions.png)
+
+![Navigation Functions](./Related-Tables.png)
+
 ## Files & Resources for the DAX Language
 
 There are 5 files available in the student files.
